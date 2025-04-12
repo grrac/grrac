@@ -5,7 +5,7 @@
 <pre style="width: 70%; display: inline-block;">
     💼 BSC @ MMU ✦︎ Data Science ✦︎ Data Analyst
     💻 Projects ✦︎ WIP... ᶻ 𝗓 𐰁 .ᐟ
-    📖 Languages ✦︎ Python ✦︎ R(soon!)
+    📖 Languages ✦︎ Python ✦︎ R ✦︎ Power BI ✦︎ SQL
     🎮 L&DS enthusiast ✦︎ Anime ✦︎ Foodie ✦︎ Art
 </pre>
 <br>
